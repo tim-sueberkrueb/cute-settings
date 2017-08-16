@@ -1,0 +1,2 @@
+module Demo
+singleton Settings 0.1 Settings.qml
